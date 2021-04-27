@@ -1,0 +1,10 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of my official Full-Stack profile",
+  "main": "index.js",
+  "repository": "https://github.com/Tochiskool/dev-portfoliohttps://github.com/Tochiskool/dev-portfolio",
+  "author": "Awemu Christian Ndifor",
+  "license": "yes",
+  "private": null
+}
